@@ -1,2 +1,1 @@
-# componentele-mele
-despre componente
+footer
